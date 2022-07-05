@@ -4,7 +4,7 @@
 		<name>Alternative Wild Magic Sorcerer</name>
 		<description>Wild Magic Sorcerer from Marco's Homebrew</description>
 		<update version="0.2.8">
-			<file name="Alt_WMS.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/players-handbook/classes/class-sorcerer.xml" />
+			<file name="Alt_WMS.xml" url="https://github.com/marco-om97/DnDHomebrew/blob/main/Alt_WMS.xml" />
 		</update>
 	</info>
 	<element name="Unstable Spell" type="Class Feature" source="Marco's Homebrew" id="ID_CLASS_FEATURE_SORCERER_METAMAGIC_UNSTABLE_SPELL">
@@ -134,7 +134,7 @@
 			<description>When you gain a level in this class, you can replace one spell from this feature with an evocation or transmutation spell from the sorcerer, bard, or wizard spell list of the same level.</description>
 		</sheet>
 		<rules>
-			<select type="Spell" name="Cantrip (Wild Magic)" supports="0,(Evocation||Transmutation),(Sorcerer||Bard||Wizard)" level="1" default="ID_WOTC_TCOE_SPELL_THAUMATURGY" spellcasting="Sorcerer" allowReplace="false" />
+			<select type="Spell" name="Cantrip (Wild Magic)" supports="0,(Evocation||Transmutation),(Sorcerer||Bard||Wizard)" level="1" default="ID_PHB_SPELL_THAUMATURGY" spellcasting="Sorcerer" allowReplace="false" />
 			<select type="Spell" name="1st Additional Spell (Wild Magic Spells)" supports="1,(Evocation||Transmutation),(Sorcerer||Bard||Wizard)||Chaos Bolt" level="1" default="ID_PHB_SPELL_CHAOS_BOLT" spellcasting="Sorcerer" allowReplace="false" />
 			<select type="Spell" name="2nd Additional Spell (Wild Magic Spells)" supports="1,(Evocation||Transmutation),(Sorcerer||Bard||Wizard)||Faerie Fire" level="1" default="ID_PHB_SPELL_FAERIE_FIRE" spellcasting="Sorcerer" allowReplace="false" />
 			<select type="Spell" name="3rd Additional Spell (Wild Magic Spells)" supports="2,(Evocation||Transmutation),(Sorcerer||Bard||Wizard)||Nathair's Mischief" level="3" default="ID_WOTC_FIZBAN_SPELL_NATHAIRS_MISCHIEF" spellcasting="Sorcerer" allowReplace="false" />
