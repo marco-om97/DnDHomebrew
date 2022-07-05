@@ -6,5 +6,7 @@
 			<file name="Marcos-homebrew.index" url="https://github.com/marco-om97/DnDHomebrew/edit/main/Marcos-homebrew.index" />
 		</update>
 	</info>
-
+	<files>
+		<file name="Alt_WMS.xml" url="https://github.com/marco-om97/DnDHomebrew/blob/main/Alt_WMS.xml" />
+	</files>		
 </index>
