@@ -3,7 +3,8 @@
 	<info>
 		<name>Alternative Wild Magic Sorcerer</name>
 		<description>Spice up the Wild Magic Sorcerer!</description>
-			<file name="Marcos-homebrew.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/curse-of-strahd.index" />
+			<file name="Marcos-homebrew.index" url="https://github.com/marco-om97/DnDHomebrew/edit/main/Marcos-homebrew.index" />
 		</update>
 	</info>
+
 </index>
