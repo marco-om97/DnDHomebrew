@@ -13,7 +13,8 @@
 			<p>When you cast a spell that forces a target to make a saving throw, you can spend 2 sorcery points (1 if you are a Wild Magic Sorcerer) to have the first saving throw against one target of the spell change its save ability determined by random chance. Roll a d6, and the target's first saving throw is changed. If you roll the ability that matches the spell's default saving throw, you may choose which ability to target for this spell's first saving throw on one target.</p>
 		</description>
 		<sheet>
-			<description>When you cast a spell that forces a target to make a saving throw, you can spend 2 sorcery points (1 if you are a Wild Magic Sorcerer) to have the first saving throw against one target of the spell change its save ability determined by random chance. Roll a d6, and the target's first saving throw is changed to target the ability corresponding to the table below. If you roll the ability that matches the spell's default saving throw, you may choose which ability to target for this spell's first saving throw on one target.
+			<description>
+			<p>When you cast a spell that forces a target to make a saving throw, you can spend 2 sorcery points (1 if you are a Wild Magic Sorcerer) to have the first saving throw against one target of the spell change its save ability determined by random chance. Roll a d6, and the target's first saving throw is changed to target the ability corresponding to the table below. If you roll the ability that matches the spell's default saving throw, you may choose which ability to target for this spell's first saving throw on one target.</p>
 			<h5 class="caption">UNSTABLE SPELL</h5>
 			<table>
 				<thead>
